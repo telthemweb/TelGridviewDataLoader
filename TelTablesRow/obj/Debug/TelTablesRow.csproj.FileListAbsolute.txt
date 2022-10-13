@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\telthemlib\netlib\TelTablesRow\TelTablesRow\bin\Debug\TelTablesRow.dll
+C:\Users\TI\Desktop\telthemlib\netlib\TelTablesRow\TelTablesRow\bin\Debug\TelTablesRow.pdb
+C:\Users\TI\Desktop\telthemlib\netlib\TelTablesRow\TelTablesRow\obj\Debug\TelTablesRow.csproj.AssemblyReference.cache
+C:\Users\TI\Desktop\telthemlib\netlib\TelTablesRow\TelTablesRow\obj\Debug\TelTablesRow.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\telthemlib\netlib\TelTablesRow\TelTablesRow\obj\Debug\TelTablesRow.dll
+C:\Users\TI\Desktop\telthemlib\netlib\TelTablesRow\TelTablesRow\obj\Debug\TelTablesRow.pdb
